@@ -1,4 +1,4 @@
-inMemoryWorkshop = []
+let inMemoryWorkshop = [];
 
 
 function getWorkshopList() {
